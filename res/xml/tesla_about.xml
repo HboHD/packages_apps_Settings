@@ -67,7 +67,7 @@
 
 	    <Preference
 	        android:title="Martin Coulon (martinusbe)"
-	            android:summary="Oneplus -One/-Two maintainer" />
+	            android:summary="Oneplus -One/-Two/-X maintainer" />
 	            
 	    <Preference
 	        android:title="Alex Couderc (Alx31)"
@@ -88,6 +88,18 @@
 	     <Preference
 	        android:title="Vibhor Chaudhary (vibhu0009)"
 	            android:summary="YU -lettuce/-tomato maintainer" />
+	            
+	     <Preference
+	        android:title="Nick van Bokhorst (GtrCraft)"
+	            android:summary="Grouper, Lux maintainer" />
+	            
+	     <Preference
+	        android:title="Matthew Opperman (dblockopp/oppo17)"
+	            android:summary="LG G3 maintainer" />
+	            
+	     <Preference
+	        android:title="Psy After"
+	            android:summary="S5-mini (g800f) maintainer" />
 	            	            
 	    </PreferenceCategory>       
 </PreferenceScreen>
